@@ -1,4 +1,4 @@
-# SSH: Connecting to GitHub Using SSH
+# SSH: Connecting to GitHub Using SSH (MAC)
 
 ## What is SSH?
 
