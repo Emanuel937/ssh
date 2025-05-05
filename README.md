@@ -1,4 +1,4 @@
-# SSH: Connecting to GitHub Using SSH (MAC) - tutorial 
+# SSH: Connecting to GitHub Using SSH (MAC & Linux) - tutorial 
 ## What is SSH?
 
 SSH, or Secure Shell, is a cryptographic network protocol used for secure communication over an unsecured network. It is commonly employed for remote access to command-line interfaces on Unix-like operating systems, including Linux and macOS, as well as for secure file transfer between computers. SSH generates private and public keys, and with these keys, you can connect your machine to the host securely.
