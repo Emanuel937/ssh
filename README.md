@@ -16,7 +16,7 @@ If it returns "No such file or directory," it means there is no private and publ
 
 Command to create private and public keys:
 ```bash
-  ssh-keygen -t rsa -b 2048
+  ssh-keygen -t ed25519
 ```
 
 **Note**: When prompted, you can enter a passphrase. This password will be required when uploading your files and folders to GitHub. Type Enter every time you are asked to input data.
